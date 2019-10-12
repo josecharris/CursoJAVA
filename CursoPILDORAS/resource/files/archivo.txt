@@ -1,0 +1,2 @@
+Hola mundo con Scanner.
+1;2;2
